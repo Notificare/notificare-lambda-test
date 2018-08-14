@@ -1,0 +1,5 @@
+Notificare Live API Sample for AWS Lambda
+Copyright 2018 Notificare B.V. All Rights Reserved.
+
+This product includes software developed by
+Notificare B.V. (http://notifica.re/).
