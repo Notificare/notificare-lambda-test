@@ -20,9 +20,13 @@ npm install
 
 After that, you can generate a new AWS APIGateway endpoint
 
+Make sure your AWS credentials have the necessary access priviliges, see [Claudia docs](https://claudiajs.com/tutorials/installing.html) for details on how to set this up.
+
 ```
 claudia create --region eu-west-1 --api-module app
 ```
+
+Use the Lambda environment to set values for PUBLIC_KEY and PRIVATE_KEY, copy those from the Notificare Dashboard.
 
 ## License
 
